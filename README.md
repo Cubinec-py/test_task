@@ -38,7 +38,7 @@ To init project need:
 cd task_2
 ```
 ```bash
-alembic upgrade hea
+alembic upgrade head
 ```
 
 To run project run this command, if need to run with reload, add --reload flag to the end:
